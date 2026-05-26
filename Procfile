@@ -1,1 +1,1 @@
-worker: python maqxxx.py
+worker: python testbot.py
